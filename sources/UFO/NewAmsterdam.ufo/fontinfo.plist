@@ -5,7 +5,7 @@
   <key>ascender</key>
   <integer>650</integer>
   <key>capHeight</key>
-  <integer>650</integer>
+  <integer>780</integer>
   <key>copyright</key>
   <string>Copyright (c) 2018 by Vladimir Nikolic. All rights reserved.</string>
   <key>descender</key>
@@ -48,11 +48,10 @@
   <key>openTypeHeadFlags</key>
   <array>
     <integer>0</integer>
-    <integer>3</integer>
-    <integer>4</integer>
+    <integer>1</integer>
   </array>
   <key>openTypeHeadLowestRecPPEM</key>
-  <integer>9</integer>
+  <integer>3</integer>
   <key>openTypeHheaAscender</key>
   <integer>820</integer>
   <key>openTypeHheaCaretOffset</key>
@@ -80,7 +79,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>VladimirNikolic: New Amsterdam Regular: 2018</string>
+  <string>VladimirNikolic: New Amsterdam Regular 2018</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.000</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -176,8 +175,10 @@
   <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-20</integer>
     <integer>0</integer>
+    <integer>0</integer>
+    <integer>779</integer>
+    <integer>779</integer>
   </array>
   <key>postscriptFontName</key>
   <string>NewAmsterdam-Regular</string>
@@ -187,6 +188,21 @@
   <string>New Amsterdam Regular</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
+  <key>postscriptOtherBlues</key>
+  <array>
+    <integer>-78</integer>
+    <integer>-78</integer>
+  </array>
+  <key>postscriptStemSnapH</key>
+  <array>
+    <integer>99</integer>
+    <integer>127</integer>
+  </array>
+  <key>postscriptStemSnapV</key>
+  <array>
+    <integer>114</integer>
+    <integer>135</integer>
+  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-75</integer>
   <key>postscriptUnderlineThickness</key>
@@ -208,6 +224,6 @@
   <key>versionMinor</key>
   <integer>0</integer>
   <key>xHeight</key>
-  <integer>649</integer>
+  <integer>779</integer>
 </dict>
 </plist>
