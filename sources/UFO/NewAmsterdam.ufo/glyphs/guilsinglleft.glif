@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="240"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="122" y="582" type="line"/>
+      <point x="30" y="427" type="line"/>
+      <point x="122" y="275" type="line"/>
+      <point x="218" y="275" type="line"/>
+      <point x="140" y="427" type="line"/>
+      <point x="218" y="582" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w240m122,582l30,427l122,275l218,275l140,427l218,582</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 275 307</string>
+          <string>vstem 30 188</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

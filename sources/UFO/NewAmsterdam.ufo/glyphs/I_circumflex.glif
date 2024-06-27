@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="2">
+  <advance width="203"/>
+  <unicode hex="00CE"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="169" y="0" type="line"/>
+      <point x="169" y="776" type="line"/>
+      <point x="34" y="776" type="line"/>
+    </contour>
+    <contour>
+      <point x="-67" y="814" type="line"/>
+      <point x="58" y="814" type="line"/>
+      <point x="104" y="883" type="line"/>
+      <point x="155" y="818" type="line"/>
+      <point x="280" y="818" type="line"/>
+      <point x="208" y="929" type="line"/>
+      <point x="2" y="926" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w203m34,0l169,0l169,776l34,776m-67,814l58,814l104,883l155,818l280,818l208,929l2,926</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 818 109</string>
+          <string>vstem 34 135</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

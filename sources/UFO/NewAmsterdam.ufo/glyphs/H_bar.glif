@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+  <advance width="551"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="487" y="654" type="line"/>
+      <point x="487" y="779" type="line"/>
+      <point x="355" y="779" type="line"/>
+      <point x="355" y="654" type="line"/>
+      <point x="203" y="654" type="line"/>
+      <point x="203" y="779" type="line"/>
+      <point x="68" y="779" type="line"/>
+      <point x="68" y="654" type="line"/>
+      <point x="31" y="654" type="line"/>
+      <point x="31" y="538" type="line"/>
+      <point x="68" y="538" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="203" y="344" type="line"/>
+      <point x="355" y="344" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="487" y="538" type="line"/>
+      <point x="522" y="538" type="line"/>
+      <point x="522" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="473" type="line"/>
+      <point x="203" y="538" type="line"/>
+      <point x="355" y="538" type="line"/>
+      <point x="355" y="473" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7f67df718307279cc1aba332b631561f90cb85691cd8006570adea7c85ef7e5835444076c4d16b32116c722325c5beae0abaa3e0d25a44ed839b2107295e8e87</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 344 129</string>
+          <string>hstem 538 116</string>
+          <string>hstem 779 -20</string>
+          <string>vstem 68 135</string>
+          <string>vstem 355 132</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
