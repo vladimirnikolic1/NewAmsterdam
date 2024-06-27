@@ -5,7 +5,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this font and associated documentation files (New Amsterdam Font), to deal
 in the "Font" without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the this font, and to permit persons to whom the Font is
+copies of the this font, and to permit persons to whom THIS FONT is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
@@ -16,5 +16,6 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-FONT.
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER TRANSACTIONS
+WITH THIS FONT.
+
