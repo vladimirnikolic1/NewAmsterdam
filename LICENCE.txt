@@ -1,4 +1,4 @@
-Copyright (c) [2024] [Vladimir Nikolic] 
+Copyright (c) [year] [fullname] ([email])
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -70,7 +70,7 @@ Modified Version, except to acknowledge the contribution(s) of the
 Copyright Holder(s) and the Author(s) or with their explicit written
 permission.
 
-5) New Amsterdam, modified or unmodified, in part or in whole,
+5) The Font Software, modified or unmodified, in part or in whole,
 must be distributed entirely under this license, and must not be
 distributed under any other license. The requirement for fonts to
 remain under this license does not apply to any document created
@@ -92,4 +92,4 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
-OTHER TRANSACTIONS IN THE FONT SOFTWARE.
+OTHER DEALINGS IN THE FONT SOFTWARE.
