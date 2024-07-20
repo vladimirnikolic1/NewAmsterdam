@@ -1,0 +1,12 @@
+            - name: Python verify action
+  # You may pin to the exact commit or the version.
+  # uses: GlobalScope-HUN/python-verify-action@8fe4c51c611613cdea32b7706ac2ce98341da1c8
+  uses: GlobalScope-HUN/python-verify-action@v1
+  with:
+    # Python version
+    python-version: # optional, default is 3.9
+    # Minimum coverage threshold
+    coverage-threshold: # optional, default is 100
+    # Should add PR comment with coverage summary?
+    add-coverage-comment: # optional, default is true
+          
