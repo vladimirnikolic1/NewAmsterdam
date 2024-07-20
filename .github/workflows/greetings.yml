@@ -1,4 +1,4 @@
-            - name: Python Tox on Fedora
+  # Python Tox on Fedora
   # You may pin to the exact commit or the version.
   # uses: fedora-python/tox-github-action@6f0add50b32e4bedfd98976984ffa499af4c218b
   uses: fedora-python/tox-github-action@v39.0
