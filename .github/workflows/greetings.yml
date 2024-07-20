@@ -1,12 +1,12 @@
-            - name: Python verify action
+            - name: Python Tox on Fedora
   # You may pin to the exact commit or the version.
-  # uses: GlobalScope-HUN/python-verify-action@8fe4c51c611613cdea32b7706ac2ce98341da1c8
-  uses: GlobalScope-HUN/python-verify-action@v1
+  # uses: fedora-python/tox-github-action@6f0add50b32e4bedfd98976984ffa499af4c218b
+  uses: fedora-python/tox-github-action@v39.0
   with:
-    # Python version
-    python-version: # optional, default is 3.9
-    # Minimum coverage threshold
-    coverage-threshold: # optional, default is 100
-    # Should add PR comment with coverage summary?
-    add-coverage-comment: # optional, default is true
+    # Tox environment to run the tests on
+    tox_env: # default is py311
+    # Space separated packages to install via dnf install (can contain options)
+    dnf_install: # optional, default is 
+    # Path to switch to before running tox.
+    workdir: # optional, default is 
           
