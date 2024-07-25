@@ -41303,28 +41303,6 @@ width = 264;
 unicode = 45;
 },
 {
-glyphname = softhyphen;
-lastChange = "2024-07-25 12:15:26 +0000";
-layers = (
-{
-layerId = "27BA4E46-0A2B-46F0-A320-1D87D61B7B36";
-shapes = (
-{
-closed = 1;
-nodes = (
-(262,277,l),
-(262,358,l),
-(24,358,l),
-(24,277,l)
-);
-}
-);
-width = 286;
-}
-);
-unicode = 173;
-},
-{
 glyphname = endash;
 lastChange = "2024-07-25 12:15:26 +0000";
 layers = (
