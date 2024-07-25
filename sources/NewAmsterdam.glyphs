@@ -39780,10 +39780,31 @@ width = 0;
 },
 {
 glyphname = .notdef;
+lastChange = "2024-07-25 12:24:36 +0000";
 layers = (
 {
 layerId = "27BA4E46-0A2B-46F0-A320-1D87D61B7B36";
-width = 271;
+shapes = (
+{
+closed = 1;
+nodes = (
+(428,0,l),
+(428,649,l),
+(60,649,l),
+(60,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(173,544,l),
+(315,544,l),
+(315,106,l),
+(173,106,l)
+);
+}
+);
+width = 488;
 }
 );
 },
