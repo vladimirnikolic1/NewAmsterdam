@@ -170,9 +170,23 @@ name = Regular;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (185,0);
+},
+{
+name = ogonek;
+pos = (333,10);
+},
+{
+name = top;
+pos = (185,650);
+}
+);
 background = {
 shapes = (
 {
@@ -2627,9 +2641,23 @@ unicode = 508;
 },
 {
 glyphname = B;
-lastChange = "2024-07-25 12:15:26 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (205,0);
+},
+{
+name = center;
+pos = (102,162);
+},
+{
+name = top;
+pos = (205,650);
+}
+);
 background = {
 shapes = (
 {
@@ -2804,9 +2832,19 @@ unicode = 66;
 },
 {
 glyphname = C;
-lastChange = "2024-07-25 12:15:26 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (203,0);
+},
+{
+name = top;
+pos = (203,650);
+}
+);
 background = {
 shapes = (
 {
@@ -3759,9 +3797,23 @@ unicode = 266;
 },
 {
 glyphname = D;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (203,0);
+},
+{
+name = center;
+pos = (102,325);
+},
+{
+name = top;
+pos = (203,650);
+}
+);
 background = {
 shapes = (
 {
@@ -4122,9 +4174,27 @@ unicode = 208;
 },
 {
 glyphname = E;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (187,0);
+},
+{
+name = ogonek;
+pos = (337,10);
+},
+{
+name = top;
+pos = (187,650);
+},
+{
+name = topleft;
+pos = (20,650);
+}
+);
 background = {
 shapes = (
 {
@@ -5718,9 +5788,19 @@ unicode = 280;
 },
 {
 glyphname = F;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (185,0);
+},
+{
+name = top;
+pos = (185,650);
+}
+);
 background = {
 shapes = (
 {
@@ -5766,9 +5846,19 @@ unicode = 70;
 },
 {
 glyphname = G;
-lastChange = "2024-07-25 12:15:26 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (201,0);
+},
+{
+name = top;
+pos = (201,650);
+}
+);
 background = {
 shapes = (
 {
@@ -6765,9 +6855,27 @@ unicode = 288;
 },
 {
 glyphname = H;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (207,0);
+},
+{
+name = center;
+pos = (207,487);
+},
+{
+name = top;
+pos = (207,650);
+},
+{
+name = topleft;
+pos = (20,650);
+}
+);
 background = {
 shapes = (
 {
@@ -6981,9 +7089,27 @@ unicode = 292;
 },
 {
 glyphname = I;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (85,0);
+},
+{
+name = ogonek;
+pos = (152,10);
+},
+{
+name = top;
+pos = (85,650);
+},
+{
+name = topleft;
+pos = (20,650);
+}
+);
 background = {
 shapes = (
 {
@@ -8511,9 +8637,19 @@ unicode = 296;
 },
 {
 glyphname = J;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (134,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
 background = {
 shapes = (
 {
@@ -8630,9 +8766,19 @@ unicode = 308;
 },
 {
 glyphname = K;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (202,0);
+},
+{
+name = top;
+pos = (202,650);
+}
+);
 background = {
 shapes = (
 {
@@ -8822,9 +8968,27 @@ unicode = 310;
 },
 {
 glyphname = L;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (159,0);
+},
+{
+name = center;
+pos = (159,325);
+},
+{
+name = top;
+pos = (159,650);
+},
+{
+name = topright;
+pos = (297,650);
+}
+);
 background = {
 shapes = (
 {
@@ -9274,9 +9438,19 @@ unicode = 321;
 },
 {
 glyphname = M;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (275,0);
+},
+{
+name = top;
+pos = (275,650);
+}
+);
 background = {
 shapes = (
 {
@@ -9328,9 +9502,19 @@ unicode = 77;
 },
 {
 glyphname = N;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (223,0);
+},
+{
+name = top;
+pos = (223,650);
+}
+);
 background = {
 shapes = (
 {
@@ -9939,9 +10123,35 @@ unicode = 330;
 },
 {
 glyphname = O;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (201,0);
+},
+{
+name = center;
+pos = (201,325);
+},
+{
+name = ogonek;
+pos = (362,10);
+},
+{
+name = top;
+pos = (201,650);
+},
+{
+name = topleft;
+pos = (20,650);
+},
+{
+name = topright;
+pos = (382,650);
+}
+);
 background = {
 shapes = (
 {
@@ -11880,9 +12090,19 @@ unicode = 338;
 },
 {
 glyphname = P;
-lastChange = "2024-07-25 12:15:26 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (203,0);
+},
+{
+name = top;
+pos = (203,650);
+}
+);
 background = {
 shapes = (
 {
@@ -12236,9 +12456,19 @@ unicode = 222;
 },
 {
 glyphname = Q;
-lastChange = "2024-07-25 12:15:26 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (205,0);
+},
+{
+name = top;
+pos = (205,650);
+}
+);
 background = {
 shapes = (
 {
@@ -12351,9 +12581,19 @@ unicode = 81;
 },
 {
 glyphname = R;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (205,0);
+},
+{
+name = top;
+pos = (205,650);
+}
+);
 background = {
 shapes = (
 {
@@ -12856,9 +13096,19 @@ unicode = 342;
 },
 {
 glyphname = S;
-lastChange = "2024-07-25 12:15:26 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (201,0);
+},
+{
+name = top;
+pos = (201,650);
+}
+);
 background = {
 shapes = (
 {
@@ -14493,9 +14743,23 @@ unicode = 7838;
 },
 {
 glyphname = T;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (149,0);
+},
+{
+name = center;
+pos = (149,325);
+},
+{
+name = top;
+pos = (149,650);
+}
+);
 background = {
 shapes = (
 {
@@ -14888,9 +15152,27 @@ unicode = 538;
 },
 {
 glyphname = U;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (201,0);
+},
+{
+name = ogonek;
+pos = (361,10);
+},
+{
+name = top;
+pos = (201,650);
+},
+{
+name = topright;
+pos = (381,650);
+}
+);
 background = {
 shapes = (
 {
@@ -16803,9 +17085,19 @@ unicode = 360;
 },
 {
 glyphname = V;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (192,0);
+},
+{
+name = top;
+pos = (192,650);
+}
+);
 background = {
 shapes = (
 {
@@ -16897,9 +17189,19 @@ unicode = 86;
 },
 {
 glyphname = W;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (315,0);
+},
+{
+name = top;
+pos = (315,650);
+}
+);
 background = {
 shapes = (
 {
@@ -18091,9 +18393,19 @@ unicode = 7808;
 },
 {
 glyphname = X;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (200,0);
+},
+{
+name = top;
+pos = (200,650);
+}
+);
 background = {
 shapes = (
 {
@@ -18247,9 +18559,23 @@ unicode = 88;
 },
 {
 glyphname = Y;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (194,0);
+},
+{
+name = top;
+pos = (194,650);
+},
+{
+name = topleft;
+pos = (20,650);
+}
+);
 background = {
 shapes = (
 {
@@ -19111,9 +19437,23 @@ unicode = 7922;
 },
 {
 glyphname = Z;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (183,0);
+},
+{
+name = center;
+pos = (183,325);
+},
+{
+name = top;
+pos = (183,650);
+}
+);
 background = {
 shapes = (
 {
@@ -19404,9 +19744,23 @@ unicode = 379;
 },
 {
 glyphname = a;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (185,0);
+},
+{
+name = ogonek;
+pos = (333,10);
+},
+{
+name = top;
+pos = (185,649);
+}
+);
 background = {
 shapes = (
 {
@@ -21861,9 +22215,23 @@ unicode = 509;
 },
 {
 glyphname = b;
-lastChange = "2024-07-25 12:15:26 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (205,0);
+},
+{
+name = center;
+pos = (102,520);
+},
+{
+name = top;
+pos = (205,649);
+}
+);
 background = {
 shapes = (
 {
@@ -22038,9 +22406,19 @@ unicode = 98;
 },
 {
 glyphname = c;
-lastChange = "2024-07-25 12:15:26 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (203,0);
+},
+{
+name = top;
+pos = (203,649);
+}
+);
 background = {
 shapes = (
 {
@@ -22993,9 +23371,27 @@ unicode = 267;
 },
 {
 glyphname = d;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (203,0);
+},
+{
+name = center;
+pos = (305,520);
+},
+{
+name = top;
+pos = (203,649);
+},
+{
+name = topright;
+pos = (386,650);
+}
+);
 background = {
 shapes = (
 {
@@ -23356,9 +23752,23 @@ unicode = 240;
 },
 {
 glyphname = e;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (187,0);
+},
+{
+name = ogonek;
+pos = (337,10);
+},
+{
+name = top;
+pos = (187,649);
+}
+);
 background = {
 shapes = (
 {
@@ -24952,9 +25362,19 @@ unicode = 281;
 },
 {
 glyphname = f;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (185,0);
+},
+{
+name = top;
+pos = (185,650);
+}
+);
 background = {
 shapes = (
 {
@@ -25000,9 +25420,19 @@ unicode = 102;
 },
 {
 glyphname = g;
-lastChange = "2024-07-25 12:15:26 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (201,-65);
+},
+{
+name = top;
+pos = (201,649);
+}
+);
 background = {
 shapes = (
 {
@@ -25999,9 +26429,23 @@ unicode = 289;
 },
 {
 glyphname = h;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (207,0);
+},
+{
+name = center;
+pos = (103,520);
+},
+{
+name = top;
+pos = (207,650);
+}
+);
 background = {
 shapes = (
 {
@@ -26215,9 +26659,15 @@ unicode = 293;
 },
 {
 glyphname = i;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (85,0);
+}
+);
 background = {
 shapes = (
 {
@@ -27793,9 +28243,19 @@ unicode = 106;
 },
 {
 glyphname = jdotless;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:40 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (134,-65);
+},
+{
+name = top;
+pos = (175,649);
+}
+);
 background = {
 shapes = (
 {
@@ -27912,9 +28372,19 @@ unicode = 309;
 },
 {
 glyphname = k;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (202,0);
+},
+{
+name = top;
+pos = (202,650);
+}
+);
 background = {
 shapes = (
 {
@@ -28169,9 +28639,27 @@ unicode = 312;
 },
 {
 glyphname = l;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (159,0);
+},
+{
+name = center;
+pos = (159,325);
+},
+{
+name = top;
+pos = (159,650);
+},
+{
+name = topright;
+pos = (297,650);
+}
+);
 background = {
 shapes = (
 {
@@ -28621,9 +29109,19 @@ unicode = 322;
 },
 {
 glyphname = m;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (275,0);
+},
+{
+name = top;
+pos = (275,649);
+}
+);
 background = {
 shapes = (
 {
@@ -28675,9 +29173,19 @@ unicode = 109;
 },
 {
 glyphname = n;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (223,0);
+},
+{
+name = top;
+pos = (223,649);
+}
+);
 background = {
 shapes = (
 {
@@ -29396,9 +29904,31 @@ unicode = 331;
 },
 {
 glyphname = o;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (201,0);
+},
+{
+name = center;
+pos = (201,325);
+},
+{
+name = ogonek;
+pos = (362,10);
+},
+{
+name = top;
+pos = (201,649);
+},
+{
+name = topright;
+pos = (382,649);
+}
+);
 background = {
 shapes = (
 {
@@ -31337,9 +31867,19 @@ unicode = 339;
 },
 {
 glyphname = p;
-lastChange = "2024-07-25 12:15:26 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (203,0);
+},
+{
+name = top;
+pos = (203,649);
+}
+);
 background = {
 shapes = (
 {
@@ -31693,9 +32233,19 @@ unicode = 254;
 },
 {
 glyphname = q;
-lastChange = "2024-07-25 12:15:26 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (205,0);
+},
+{
+name = top;
+pos = (205,649);
+}
+);
 background = {
 shapes = (
 {
@@ -31808,9 +32358,19 @@ unicode = 113;
 },
 {
 glyphname = r;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (205,0);
+},
+{
+name = top;
+pos = (205,649);
+}
+);
 background = {
 shapes = (
 {
@@ -32313,9 +32873,19 @@ unicode = 343;
 },
 {
 glyphname = s;
-lastChange = "2024-07-25 12:15:26 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (201,0);
+},
+{
+name = top;
+pos = (201,649);
+}
+);
 background = {
 shapes = (
 {
@@ -33985,9 +34555,27 @@ unicode = 223;
 },
 {
 glyphname = t;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (149,0);
+},
+{
+name = center;
+pos = (149,325);
+},
+{
+name = top;
+pos = (149,649);
+},
+{
+name = topright;
+pos = (277,650);
+}
+);
 background = {
 shapes = (
 {
@@ -34370,9 +34958,27 @@ unicode = 539;
 },
 {
 glyphname = u;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (201,0);
+},
+{
+name = ogonek;
+pos = (361,10);
+},
+{
+name = top;
+pos = (201,649);
+},
+{
+name = topright;
+pos = (381,649);
+}
+);
 background = {
 shapes = (
 {
@@ -36285,9 +36891,19 @@ unicode = 361;
 },
 {
 glyphname = v;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (192,0);
+},
+{
+name = top;
+pos = (192,649);
+}
+);
 background = {
 shapes = (
 {
@@ -36379,9 +36995,19 @@ unicode = 118;
 },
 {
 glyphname = w;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (315,0);
+},
+{
+name = top;
+pos = (315,649);
+}
+);
 background = {
 shapes = (
 {
@@ -37573,9 +38199,19 @@ unicode = 7809;
 },
 {
 glyphname = x;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (200,0);
+},
+{
+name = top;
+pos = (200,649);
+}
+);
 background = {
 shapes = (
 {
@@ -37729,9 +38365,19 @@ unicode = 120;
 },
 {
 glyphname = y;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (194,0);
+},
+{
+name = top;
+pos = (194,649);
+}
+);
 background = {
 shapes = (
 {
@@ -38593,9 +39239,23 @@ unicode = 7923;
 },
 {
 glyphname = z;
-lastChange = "2024-07-25 10:00:52 +0000";
+lastChange = "2024-07-25 12:26:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (183,0);
+},
+{
+name = center;
+pos = (183,325);
+},
+{
+name = top;
+pos = (183,649);
+}
+);
 background = {
 shapes = (
 {
