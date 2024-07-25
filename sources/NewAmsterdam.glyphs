@@ -39748,13 +39748,14 @@ unicode = 32;
 },
 {
 glyphname = nbspace;
-lastChange = "2024-07-25 09:58:23 +0000";
+lastChange = "2024-07-25 12:25:32 +0000";
 layers = (
 {
 layerId = "27BA4E46-0A2B-46F0-A320-1D87D61B7B36";
-width = 399;
+width = 271;
 }
 );
+metricWidth = space;
 unicode = 160;
 },
 {
